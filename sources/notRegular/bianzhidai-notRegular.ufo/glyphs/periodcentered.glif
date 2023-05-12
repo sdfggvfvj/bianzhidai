@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+	<advance width="200"/>
+	<unicode hex="00B7"/>
+	<outline>
+		<component base="pixel" yOffset="300"/>
+		<component base="pixel_small"/>
+		<component base="pixel_small" yOffset="100"/>
+		<component base="pixel_small" yOffset="200"/>
+		<component base="pixel_small" yOffset="400"/>
+		<component base="pixel_small" yOffset="500"/>
+		<component base="pixel_small" xOffset="100"/>
+		<component base="pixel_small" xOffset="100" yOffset="100"/>
+		<component base="pixel_small" xOffset="100" yOffset="200"/>
+		<component base="pixel_small" xOffset="100" yOffset="300"/>
+		<component base="pixel_small" xOffset="100" yOffset="400"/>
+		<component base="pixel_small" xOffset="100" yOffset="500"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

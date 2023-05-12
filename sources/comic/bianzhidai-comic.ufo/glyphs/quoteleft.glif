@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<advance width="263"/>
+	<unicode hex="2018"/>
+	<outline>
+		<component base="pixel" yOffset="500"/>
+		<component base="pixel" yOffset="400"/>
+		<component base="pixel_small" xOffset="100" yOffset="500"/>
+		<component base="pixel_small" xOffset="100" yOffset="400"/>
+		<component base="pixel_small" xOffset="100" yOffset="300"/>
+		<component base="pixel_small" xOffset="100" yOffset="200"/>
+		<component base="pixel_small" xOffset="100" yOffset="100"/>
+		<component base="pixel_small" xOffset="100"/>
+		<component base="pixel_small" yOffset="300"/>
+		<component base="pixel_small" yOffset="200"/>
+		<component base="pixel_small" yOffset="100"/>
+		<component base="pixel_small"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>pixel</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>
