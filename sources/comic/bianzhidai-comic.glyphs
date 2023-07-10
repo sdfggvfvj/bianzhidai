@@ -2,7 +2,14 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"ä"
+"ä",
+"cć",
+"č",
+"cć",
+"ć",
+"̧ç",
+"",
+"éěêëėèēẽ"
 );
 customParameters = (
 {
@@ -18852,9 +18859,19 @@ unicode = 98;
 },
 {
 glyphname = c;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-10 14:10:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (363,0);
+},
+{
+name = top;
+pos = (263,588);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -19047,7 +19064,7 @@ unicode = 99;
 },
 {
 glyphname = cacute;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-10 14:10:28 +0000";
 layers = (
 {
 layerId = m01;
@@ -19056,6 +19073,7 @@ shapes = (
 ref = c;
 },
 {
+pos = (113,-13);
 ref = acutecomb;
 }
 );
@@ -19066,7 +19084,7 @@ unicode = 263;
 },
 {
 glyphname = ccaron;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-10 14:10:28 +0000";
 layers = (
 {
 layerId = m01;
@@ -19075,6 +19093,7 @@ shapes = (
 ref = c;
 },
 {
+pos = (113,-13);
 ref = caroncomb;
 }
 );
@@ -19085,7 +19104,7 @@ unicode = 269;
 },
 {
 glyphname = ccedilla;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-10 14:09:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -19094,7 +19113,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (38,38);
+pos = (138,38);
 ref = cedillacomb;
 }
 );
@@ -19105,7 +19124,7 @@ unicode = 231;
 },
 {
 glyphname = cdotaccent;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-10 14:10:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -19114,7 +19133,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (100,0);
+pos = (213,-13);
 ref = dotaccentcomb;
 }
 );
@@ -40206,7 +40225,7 @@ unicode = 772;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2023-06-21 09:24:37 +0000";
+lastChange = "2023-07-10 14:09:42 +0000";
 layers = (
 {
 anchors = (
@@ -40239,11 +40258,6 @@ ref = pixel;
 {
 alignment = -1;
 pos = (100,-313);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (0,-213);
 ref = pixel;
 }
 );
