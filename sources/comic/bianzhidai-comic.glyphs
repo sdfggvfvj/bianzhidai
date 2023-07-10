@@ -2,7 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"AÁĂǍÂÄÀĀÅÃÆBCĆČÇĊDĎEÉĚÊËĖÈĒẼFGĞĠHIĲÍÎÏÌĪĨJ/Jacute KLĹMNŃŇÑOÓÔÖÒŌØÕŒPQRŔŘSŚŠẞTUÚÛÜÙŪŮŨVWẂŴẄẀXYÝŶŸỲỸZŹŽŻ/N_Y_T_F.dlig/V_T_F.dlig aáăǎâäàāåãæbcćčçċdďeéěêëėèēẽfgğġhiıíîïìĳīĩjȷ/jacute klĺmnńňñoóôöòōøõœpqrŕřsśšßtuúûüùūůũvwẃŵẅẁxyýŷÿỳỹzźžż0123456789/.notdef  .,:;…!¡?¿·•#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'@&¶™°|¦+−×÷=><±≈~¬^%/plusminus.001 ↑→↓←̈̇̀́̂̌̆̊̃̄"
+"ä"
 );
 customParameters = (
 {
@@ -76,12 +76,7 @@ over = 16;
 pos = 740;
 },
 {
-over = 16;
-pos = 600;
-},
-{
-over = 16;
-pos = 600;
+pos = 740;
 },
 {
 over = -16;
@@ -42637,9 +42632,6 @@ v = 0;
 metrics = (
 {
 type = ascender;
-},
-{
-type = "cap height";
 },
 {
 type = "x-height";
