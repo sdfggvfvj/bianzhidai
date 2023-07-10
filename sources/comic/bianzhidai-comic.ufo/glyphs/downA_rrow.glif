@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="downArrow" format="2">
-	<advance width="600"/>
+	<advance width="688"/>
 	<unicode hex="2193"/>
 	<outline>
 		<component base="pixel" xOffset="200" yOffset="100"/>

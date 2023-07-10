@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-	<advance width="663"/>
+	<advance width="688"/>
 	<unicode hex="0049"/>
+	<anchor x="250" y="0" name="bottom"/>
+	<anchor x="538" y="13" name="ogonek"/>
+	<anchor x="250" y="600" name="top"/>
+	<anchor x="25" y="600" name="topleft"/>
 	<outline>
 		<component base="pixel" xOffset="100" yOffset="500"/>
 		<component base="pixel" xOffset="200" yOffset="500"/>

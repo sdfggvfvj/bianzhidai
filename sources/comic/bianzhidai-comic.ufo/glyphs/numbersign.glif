@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="2">
-	<advance width="900"/>
+	<advance width="988"/>
 	<unicode hex="0023"/>
 	<outline>
 		<component base="pixel" xOffset="200" yOffset="200"/>

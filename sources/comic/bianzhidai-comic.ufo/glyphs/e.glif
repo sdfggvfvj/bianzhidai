@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-	<advance width="663"/>
+	<advance width="688"/>
 	<unicode hex="0065"/>
+	<anchor x="300" y="200" name="_top"/>
+	<anchor x="300" y="0" name="bottom"/>
+	<anchor x="538" y="13" name="ogonek"/>
+	<anchor x="300" y="600" name="top"/>
 	<outline>
 		<component base="pixel_small" xOffset="500" yOffset="400"/>
 		<component base="pixel_small" xOffset="500" yOffset="300"/>

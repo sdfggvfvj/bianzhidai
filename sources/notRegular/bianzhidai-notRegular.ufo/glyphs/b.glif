@@ -2,6 +2,9 @@
 <glyph name="b" format="2">
 	<advance width="700"/>
 	<unicode hex="0062"/>
+	<anchor x="350" y="0" name="bottom"/>
+	<anchor x="350" y="300" name="center"/>
+	<anchor x="350" y="600" name="top"/>
 	<outline>
 		<component base="pixel_small" yOffset="200"/>
 		<component base="pixel_small" yOffset="300"/>

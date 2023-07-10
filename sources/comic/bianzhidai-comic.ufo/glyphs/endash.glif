@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-	<advance width="763"/>
+	<advance width="788"/>
 	<unicode hex="2013"/>
 	<outline>
 		<component base="pixel_small" xOffset="600" yOffset="400"/>
@@ -31,15 +31,15 @@
 		<component base="pixel_small" xOffset="200" yOffset="500"/>
 		<component base="pixel_small" xOffset="100" yOffset="400"/>
 		<component base="pixel_small" xOffset="100" yOffset="200"/>
+		<component base="pixel_small" xOffset="100" yOffset="100"/>
+		<component base="pixel_small" xOffset="100"/>
 		<component base="pixel_small" xOffset="100" yOffset="500"/>
 		<component base="pixel_small" yOffset="400"/>
 		<component base="pixel_small" yOffset="300"/>
 		<component base="pixel_small" yOffset="200"/>
-		<component base="pixel_small" yOffset="500"/>
-		<component base="pixel_small"/>
-		<component base="pixel_small" xOffset="100"/>
 		<component base="pixel_small" yOffset="100"/>
-		<component base="pixel_small" xOffset="100" yOffset="100"/>
+		<component base="pixel_small"/>
+		<component base="pixel_small" yOffset="500"/>
 		<component base="pixel" xOffset="100" yOffset="300"/>
 		<component base="pixel" xOffset="200" yOffset="300"/>
 		<component base="pixel" xOffset="300" yOffset="300"/>

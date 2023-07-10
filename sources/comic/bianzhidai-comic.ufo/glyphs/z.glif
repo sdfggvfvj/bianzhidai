@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<advance width="663"/>
+	<advance width="688"/>
 	<unicode hex="007A"/>
+	<anchor x="300" y="0" name="bottom"/>
+	<anchor x="300" y="300" name="center"/>
+	<anchor x="300" y="600" name="top"/>
 	<outline>
 		<component base="pixel" yOffset="500"/>
 		<component base="pixel" xOffset="200" yOffset="500"/>

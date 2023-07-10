@@ -2,14 +2,48 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Aacute</key>
+	<dict>
+		<key>H</key>
+		<integer>-100</integer>
+	</dict>
+	<key>H</key>
+	<dict>
+		<key>y</key>
+		<integer>-100</integer>
+	</dict>
 	<key>l</key>
 	<dict>
 		<key>o</key>
-		<integer>-100</integer>
+		<integer>0</integer>
 	</dict>
 	<key>o</key>
 	<dict>
 		<key>v</key>
+		<integer>0</integer>
+	</dict>
+	<key>public.kern1.H-R</key>
+	<dict>
+		<key>public.kern2.H_L</key>
+		<integer>-100</integer>
+	</dict>
+	<key>public.kern1.H_R</key>
+	<dict>
+		<key>public.kern2.H_L</key>
+		<integer>-100</integer>
+		<key>public.kern2.o_l</key>
+		<integer>-100</integer>
+	</dict>
+	<key>public.kern1.a_r</key>
+	<dict>
+		<key>public.kern2.H_L</key>
+		<integer>-100</integer>
+		<key>t</key>
+		<integer>-100</integer>
+	</dict>
+	<key>public.kern1.o_r</key>
+	<dict>
+		<key>public.kern2.H_L</key>
 		<integer>-100</integer>
 	</dict>
 </dict>

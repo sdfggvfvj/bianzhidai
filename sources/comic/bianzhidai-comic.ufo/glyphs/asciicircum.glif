@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-	<advance width="463"/>
+	<advance width="488"/>
 	<unicode hex="005E"/>
 	<outline>
 		<component base="pixel" xOffset="100" yOffset="500"/>

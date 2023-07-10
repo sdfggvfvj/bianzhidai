@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
-	<advance width="700"/>
+	<advance width="725"/>
 	<unicode hex="0043"/>
+	<anchor x="313" y="0" name="bottom"/>
+	<anchor x="313" y="600" name="top"/>
 	<outline>
 		<component base="pixel" xOffset="200" yOffset="500"/>
 		<component base="pixel" xOffset="100" yOffset="400"/>

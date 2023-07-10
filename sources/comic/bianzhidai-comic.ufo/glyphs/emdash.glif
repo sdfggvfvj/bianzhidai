@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash" format="2">
-	<advance width="1063"/>
+	<advance width="1088"/>
 	<unicode hex="2014"/>
 	<outline>
 		<component base="pixel_small" xOffset="600" yOffset="400"/>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-	<advance width="700"/>
+	<advance width="788"/>
 	<unicode hex="0052"/>
+	<anchor x="350" y="0" name="bottom"/>
+	<anchor x="350" y="600" name="top"/>
 	<outline>
 		<component base="pixel" xOffset="100" yOffset="500"/>
 		<component base="pixel" xOffset="200" yOffset="500"/>
@@ -42,9 +44,6 @@
 		<component base="pixel_small" xOffset="300" yOffset="200"/>
 		<component base="pixel_small" xOffset="300"/>
 		<component base="pixel" yOffset="500"/>
-		<component base="pixel_small" xOffset="200" yOffset="300"/>
-		<component base="pixel_small" xOffset="300" yOffset="300"/>
-		<component base="pixel_small" xOffset="100" yOffset="300"/>
 	</outline>
 	<lib>
 		<dict>

@@ -2,6 +2,9 @@
 <glyph name="Y" format="2">
 	<advance width="600"/>
 	<unicode hex="0059"/>
+	<anchor x="250" y="0" name="bottom"/>
+	<anchor x="250" y="600" name="top"/>
+	<anchor x="25" y="600" name="topleft"/>
 	<outline>
 		<component base="pixel" xOffset="100" yOffset="400"/>
 		<component base="pixel" xOffset="200" yOffset="300"/>

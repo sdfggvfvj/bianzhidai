@@ -5,8 +5,14 @@ Bianzhidai is a font inspired by shading characters in ASCII art and 编织袋 (
 Bianzhidai is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
 
 
-Designed by Xiaoyuan Gao [notyourtype foundry](https://notyourtype.nl)
+## Design by
+
+[Xiaoyuan Gao from notyourtype foundry](https://notyourtype.nl)
 
 ## License 
 
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
+
+## Publisher
+
+Velvetyne Type Foundry [https://velvetyne.fr/]

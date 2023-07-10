@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="2">
-	<advance width="1163"/>
+	<advance width="1188"/>
 	<unicode hex="006D"/>
+	<anchor x="550" y="0" name="bottom"/>
+	<anchor x="550" y="600" name="top"/>
 	<outline>
 		<component base="pixel" xOffset="100" yOffset="500"/>
 		<component base="pixel" xOffset="200" yOffset="300"/>
