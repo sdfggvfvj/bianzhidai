@@ -18,5 +18,5 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 ## Publisher
 
 [Velvetyne Type Foundry](https://velvetyne.fr/)
-
+![alt text](documentation/specimen/imgs/eg.png "Title")
 ![alt text](documentation/specimen/imgs/00_specimen.gif "Title")
