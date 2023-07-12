@@ -9,7 +9,6 @@
 		<component base="pixel" xOffset="300" yOffset="-213"/>
 		<component base="pixel" xOffset="200" yOffset="-313"/>
 		<component base="pixel" xOffset="100" yOffset="-313"/>
-		<component base="pixel" yOffset="-213"/>
 	</outline>
 	<lib>
 		<dict>
@@ -44,14 +43,6 @@
 					<integer>-1</integer>
 					<key>index</key>
 					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>4</integer>
 					<key>name</key>
 					<string>pixel</string>
 				</dict>

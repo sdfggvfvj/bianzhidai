@@ -5,7 +5,7 @@
 	<key>ascender</key>
 	<integer>740</integer>
 	<key>capHeight</key>
-	<integer>600</integer>
+	<integer>740</integer>
 	<key>copyright</key>
 	<string>notyourtype foundry(notyourtype.nl)</string>
 	<key>descender</key>
@@ -49,8 +49,6 @@
 	<array>
 		<real>-16.0</real>
 		<real>0.0</real>
-		<real>600.0</real>
-		<real>616.0</real>
 		<real>740.0</real>
 		<real>756.0</real>
 	</array>
@@ -71,6 +69,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>600</integer>
+	<integer>740</integer>
 </dict>
 </plist>

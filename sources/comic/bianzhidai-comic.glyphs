@@ -9,7 +9,8 @@ DisplayStrings = (
 "ć",
 "̧ç",
 "",
-"éěêëėèēẽ"
+"éěêëėèēẽ",
+"Ă"
 );
 customParameters = (
 {
@@ -364,7 +365,7 @@ unicode = 193;
 },
 {
 glyphname = Abreve;
-lastChange = "2023-07-05 12:38:07 +0000";
+lastChange = "2023-07-12 12:54:14 +0000";
 layers = (
 {
 layerId = m01;
