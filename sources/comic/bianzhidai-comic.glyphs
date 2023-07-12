@@ -86,6 +86,9 @@ pos = 740;
 pos = 740;
 },
 {
+pos = 740;
+},
+{
 over = -16;
 },
 {
@@ -42646,6 +42649,9 @@ v = 0;
 metrics = (
 {
 type = ascender;
+},
+{
+type = "cap height";
 },
 {
 type = "x-height";
