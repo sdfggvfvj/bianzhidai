@@ -21,7 +21,7 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 ## Reference 
 
-![alt text](documentation/specimen/imgs/eg.png "Title")
+![alt text](documentation/specimen/imgs/eg.webp "Title")
 
 ## specimen
 ![alt text](documentation/specimen/imgs/00_specimen.gif "Title")
