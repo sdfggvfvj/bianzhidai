@@ -1,4 +1,4 @@
-#BianZhiDai 
+## About BianZhiDai
 
 BianZhiDai is a font inspired by shading characters in ASCII art and 编织袋 (woven plastic bag in Simple Chinese).Previously constructed in [GDC](http://glyphdrawing.club) (GDC-glyphdrawingclub, designed and developed by @hlotvonen and @i-tu ). I always find it so interesting to try different tools (not specifically made for type design) to construct typefaces.
 
