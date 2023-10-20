@@ -7,9 +7,9 @@ bianzhidai is good with colors, especially in combination with different fill/st
 
 ## Design by
 
-[Xiaoyuan Gao](https://xiaoyuangao.cargo.site) from [notyourtype foundry](https://notyourtype.nl)
+[Xiaoyuan Gao](https://notyourtype.nl)
 
-a freelance graphic designer, image-maker and sometimes type designer at notyourtype foundry, based in Rotterdam, NL.
+Xiaoyuan Gao is a Rotterdam-based freelance graphic designer, image-maker, type designer and the initiator of “notyourtype foundry”. In her practice, she loves experimenting with unconventional approaches to type design and typesetting. She sees type design (making custom characters into a font file) as making a tool for typing, just like a customised typewriter. She also enjoys creating visuals out of found images , which allows her to combine typography and imagery in playful ways.
 
 ## License 
 

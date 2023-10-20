@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pixel_round" format="2">
+	<advance width="100"/>
+	<outline>
+		<contour>
+			<point x="16" y="50" type="line"/>
+			<point x="34" y="50" type="line"/>
+			<point x="34" y="47" type="line"/>
+			<point x="41" y="47" type="line"/>
+			<point x="41" y="44" type="line"/>
+			<point x="44" y="44" type="line"/>
+			<point x="44" y="41" type="line"/>
+			<point x="47" y="41" type="line"/>
+			<point x="47" y="34" type="line"/>
+			<point x="50" y="34" type="line"/>
+			<point x="50" y="16" type="line"/>
+			<point x="47" y="16" type="line"/>
+			<point x="47" y="9" type="line"/>
+			<point x="44" y="9" type="line"/>
+			<point x="44" y="6" type="line"/>
+			<point x="41" y="6" type="line"/>
+			<point x="41" y="3" type="line"/>
+			<point x="34" y="3" type="line"/>
+			<point x="34" y="0" type="line"/>
+			<point x="16" y="0" type="line"/>
+			<point x="16" y="3" type="line"/>
+			<point x="9" y="3" type="line"/>
+			<point x="9" y="6" type="line"/>
+			<point x="6" y="6" type="line"/>
+			<point x="6" y="9" type="line"/>
+			<point x="3" y="9" type="line"/>
+			<point x="3" y="16" type="line"/>
+			<point x="0" y="16" type="line"/>
+			<point x="0" y="34" type="line"/>
+			<point x="3" y="34" type="line"/>
+			<point x="3" y="41" type="line"/>
+			<point x="6" y="41" type="line"/>
+			<point x="6" y="44" type="line"/>
+			<point x="9" y="44" type="line"/>
+			<point x="9" y="47" type="line"/>
+			<point x="16" y="47" type="line"/>
+		</contour>
+		<contour>
+			<point x="66" y="100" type="line"/>
+			<point x="84" y="100" type="line"/>
+			<point x="84" y="97" type="line"/>
+			<point x="91" y="97" type="line"/>
+			<point x="91" y="94" type="line"/>
+			<point x="94" y="94" type="line"/>
+			<point x="94" y="91" type="line"/>
+			<point x="97" y="91" type="line"/>
+			<point x="97" y="84" type="line"/>
+			<point x="100" y="84" type="line"/>
+			<point x="100" y="66" type="line"/>
+			<point x="97" y="66" type="line"/>
+			<point x="97" y="59" type="line"/>
+			<point x="94" y="59" type="line"/>
+			<point x="94" y="56" type="line"/>
+			<point x="91" y="56" type="line"/>
+			<point x="91" y="53" type="line"/>
+			<point x="84" y="53" type="line"/>
+			<point x="84" y="50" type="line"/>
+			<point x="66" y="50" type="line"/>
+			<point x="66" y="53" type="line"/>
+			<point x="59" y="53" type="line"/>
+			<point x="59" y="56" type="line"/>
+			<point x="56" y="56" type="line"/>
+			<point x="56" y="59" type="line"/>
+			<point x="53" y="59" type="line"/>
+			<point x="53" y="66" type="line"/>
+			<point x="50" y="66" type="line"/>
+			<point x="50" y="84" type="line"/>
+			<point x="53" y="84" type="line"/>
+			<point x="53" y="91" type="line"/>
+			<point x="56" y="91" type="line"/>
+			<point x="56" y="94" type="line"/>
+			<point x="59" y="94" type="line"/>
+			<point x="59" y="97" type="line"/>
+			<point x="66" y="97" type="line"/>
+		</contour>
+		<contour>
+			<point x="66" y="50" type="line"/>
+			<point x="84" y="50" type="line"/>
+			<point x="84" y="47" type="line"/>
+			<point x="91" y="47" type="line"/>
+			<point x="91" y="44" type="line"/>
+			<point x="94" y="44" type="line"/>
+			<point x="94" y="41" type="line"/>
+			<point x="97" y="41" type="line"/>
+			<point x="97" y="34" type="line"/>
+			<point x="100" y="34" type="line"/>
+			<point x="100" y="16" type="line"/>
+			<point x="97" y="16" type="line"/>
+			<point x="97" y="9" type="line"/>
+			<point x="94" y="9" type="line"/>
+			<point x="94" y="6" type="line"/>
+			<point x="91" y="6" type="line"/>
+			<point x="91" y="3" type="line"/>
+			<point x="84" y="3" type="line"/>
+			<point x="84" y="0" type="line"/>
+			<point x="66" y="0" type="line"/>
+			<point x="66" y="3" type="line"/>
+			<point x="59" y="3" type="line"/>
+			<point x="59" y="6" type="line"/>
+			<point x="56" y="6" type="line"/>
+			<point x="56" y="9" type="line"/>
+			<point x="53" y="9" type="line"/>
+			<point x="53" y="16" type="line"/>
+			<point x="50" y="16" type="line"/>
+			<point x="50" y="34" type="line"/>
+			<point x="53" y="34" type="line"/>
+			<point x="53" y="41" type="line"/>
+			<point x="56" y="41" type="line"/>
+			<point x="56" y="44" type="line"/>
+			<point x="59" y="44" type="line"/>
+			<point x="59" y="47" type="line"/>
+			<point x="66" y="47" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

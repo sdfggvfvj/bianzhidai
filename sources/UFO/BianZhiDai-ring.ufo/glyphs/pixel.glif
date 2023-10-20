@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pixel" format="2">
+	<advance width="100"/>
+	<outline>
+		<contour>
+			<point x="40" y="75" type="line"/>
+			<point x="40" y="70" type="line"/>
+			<point x="35" y="70" type="line"/>
+			<point x="35" y="68" type="line"/>
+			<point x="31" y="68" type="line"/>
+			<point x="31" y="64" type="line"/>
+			<point x="29" y="64" type="line"/>
+			<point x="29" y="59" type="line"/>
+			<point x="25" y="59" type="line"/>
+			<point x="25" y="40" type="line"/>
+			<point x="29" y="40" type="line"/>
+			<point x="29" y="34" type="line"/>
+			<point x="31" y="34" type="line"/>
+			<point x="31" y="31" type="line"/>
+			<point x="35" y="31" type="line"/>
+			<point x="35" y="29" type="line"/>
+			<point x="40" y="29" type="line"/>
+			<point x="40" y="25" type="line"/>
+			<point x="59" y="25" type="line"/>
+			<point x="59" y="29" type="line"/>
+			<point x="65" y="29" type="line"/>
+			<point x="65" y="31" type="line"/>
+			<point x="68" y="31" type="line"/>
+			<point x="68" y="34" type="line"/>
+			<point x="70" y="34" type="line"/>
+			<point x="70" y="40" type="line"/>
+			<point x="75" y="40" type="line"/>
+			<point x="75" y="59" type="line"/>
+			<point x="70" y="59" type="line"/>
+			<point x="70" y="64" type="line"/>
+			<point x="68" y="64" type="line"/>
+			<point x="68" y="68" type="line"/>
+			<point x="65" y="68" type="line"/>
+			<point x="65" y="70" type="line"/>
+			<point x="59" y="70" type="line"/>
+			<point x="59" y="75" type="line"/>
+		</contour>
+		<contour>
+			<point x="22" y="125" type="line"/>
+			<point x="77" y="125" type="line"/>
+			<point x="77" y="114" type="line"/>
+			<point x="96" y="114" type="line"/>
+			<point x="96" y="107" type="line"/>
+			<point x="107" y="107" type="line"/>
+			<point x="107" y="96" type="line"/>
+			<point x="114" y="96" type="line"/>
+			<point x="114" y="77" type="line"/>
+			<point x="125" y="77" type="line"/>
+			<point x="125" y="22" type="line"/>
+			<point x="114" y="22" type="line"/>
+			<point x="114" y="4" type="line"/>
+			<point x="107" y="4" type="line"/>
+			<point x="107" y="-7" type="line"/>
+			<point x="96" y="-7" type="line"/>
+			<point x="96" y="-14" type="line"/>
+			<point x="77" y="-14" type="line"/>
+			<point x="77" y="-25" type="line"/>
+			<point x="22" y="-25" type="line"/>
+			<point x="22" y="-14" type="line"/>
+			<point x="4" y="-14" type="line"/>
+			<point x="4" y="-7" type="line"/>
+			<point x="-7" y="-7" type="line"/>
+			<point x="-7" y="4" type="line"/>
+			<point x="-14" y="4" type="line"/>
+			<point x="-14" y="22" type="line"/>
+			<point x="-25" y="22" type="line"/>
+			<point x="-25" y="77" type="line"/>
+			<point x="-14" y="77" type="line"/>
+			<point x="-14" y="96" type="line"/>
+			<point x="-7" y="96" type="line"/>
+			<point x="-7" y="107" type="line"/>
+			<point x="4" y="107" type="line"/>
+			<point x="4" y="114" type="line"/>
+			<point x="22" y="114" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>
