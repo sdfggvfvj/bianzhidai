@@ -1,0 +1,48 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn NLD;
+
+feature aalt {
+# automatic
+feature locl;
+feature ss01;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+} ccmp;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+} locl;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub N Y T F by N_Y_T_F.dlig;
+sub V T F by V_T_F.dlig;
+} dlig;
+
+feature ss01 {
+# automatic
+sub f by f.ss01;
+sub i by i.ss01;
+sub k by k.ss01;
+sub four by four.ss01;
+} ss01;
+

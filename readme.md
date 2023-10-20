@@ -24,4 +24,4 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 ![alt text](documentation/specimen/imgs/eg.webp "Title")
 
 ## GIF
-![alt text](documentation/specimen/imgs/00_specimen.gif "Title")
+![alt text](hello.gif "Variable Preview")

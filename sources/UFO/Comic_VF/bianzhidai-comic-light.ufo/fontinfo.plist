@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>740</integer>
+	<key>capHeight</key>
+	<integer>740</integer>
+	<key>copyright</key>
+	<string>notyourtype foundry(notyourtype.nl)</string>
+	<key>descender</key>
+	<integer>0</integer>
+	<key>familyName</key>
+	<string>bianzhidai-comic</string>
+	<key>openTypeHeadCreated</key>
+	<string>2023/04/14 13:27:34</string>
+	<key>openTypeNameDesigner</key>
+	<string>Xiaoyuan Gao</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>xiaoyuangao.cargo.site</string>
+	<key>openTypeNameLicense</key>
+	<string>OFL</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>notyourtype.nl</string>
+	<key>openTypeNameRecords</key>
+	<array>
+		<dict>
+			<key>encodingID</key>
+			<integer>1</integer>
+			<key>languageID</key>
+			<integer>1033</integer>
+			<key>nameID</key>
+			<integer>19</integer>
+			<key>platformID</key>
+			<integer>3</integer>
+			<key>string</key>
+			<string>the lazy fox jumped over the quick brown dog. 1234567890 notyourtype foundry (notyourtype.nl)</string>
+		</dict>
+	</array>
+	<key>openTypeNameSampleText</key>
+	<string>the lazy fox jumped over the quick brown dog. 1234567890 notyourtype foundry (notyourtype.nl)</string>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-16.0</real>
+		<real>0.0</real>
+		<real>740.0</real>
+		<real>756.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>bianzhidai-comic-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleName</key>
+	<string>light</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>740</integer>
+</dict>
+</plist>
