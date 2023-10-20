@@ -20,7 +20,7 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 [Velvetyne Type Foundry](https://velvetyne.fr/)
 
 ## Co-publisher
-[notyourtype foundry]
+[notyourtype foundry](https://notyourtype.nl)
 
 ## Reference 
 
