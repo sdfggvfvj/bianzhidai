@@ -15,6 +15,13 @@ Xiaoyuan Gao is a Rotterdam-based freelance graphic designer, image-maker, type 
 
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
+## Publisher
+
+[Velvetyne Type Foundry](https://velvetyne.fr/)
+
+## Co-publisher
+[notyourtype foundry](https://notyourtype.nl)
+
 ## Download & Install
 
 > [!WARNING]  
@@ -26,13 +33,6 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 
 [I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/archive/refs/heads/main.zip)
-
-## Publisher
-
-[Velvetyne Type Foundry](https://velvetyne.fr/)
-
-## Co-publisher
-[notyourtype foundry](https://notyourtype.nl)
 
 ## Reference 
 
