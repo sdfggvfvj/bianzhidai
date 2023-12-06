@@ -15,10 +15,6 @@ Xiaoyuan Gao is a Rotterdam-based freelance graphic designer, image-maker, type 
 
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
-## Usage Conditions
-
-You agree that you respect the work the type designer, and you will credit the them whenever wherever you can.
-
 ## Publisher
 
 [Velvetyne Type Foundry](https://velvetyne.fr/)
@@ -26,7 +22,7 @@ You agree that you respect the work the type designer, and you will credit the t
 ## Co-publisher
 [notyourtype foundry](https://notyourtype.nl)
 
-## Download & Install
+## Usage Condition, Download & Install
 
 > [!WARNING]  
 > To use the "bianzhidai" font, it is mandatory to credit the designer, [Xiaoyuan Gao, notyourtype foundry](https://notyourtype.nl/) and Velvetyne Type Foundry. Acknowledging and appreciating creative contributions is essential. So, please ensure you give appropriate credit to the typeface and designer.
