@@ -25,7 +25,7 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 > ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, IT'S REALLY NOT THAT HARD. 
 
 
-[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/tree/main/fonts)
+[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/archive/refs/heads/main.zip)
 
 ## Publisher
 
