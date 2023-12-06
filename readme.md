@@ -29,7 +29,7 @@ You agree that you respect the work the type designer, and you will credit the t
 ## Download & Install
 
 > [!WARNING]  
-> To use the "bianzhidai" font, it is mandatory to credit the designer, Xiaoyuan Gao, and the foundry, notyourtype. Please visit their website for more details: [Xiaoyuan Gao and notyourtype foundry](https://notyourtype.nl/). Acknowledging and appreciating creative contributions is essential. So, please ensure you give appropriate credit to the typeface and designer.
+> To use the "bianzhidai" font, it is mandatory to credit the designer, [Xiaoyuan Gao, notyourtype foundry](https://notyourtype.nl/) and Velvetyne Type Foundry. Acknowledging and appreciating creative contributions is essential. So, please ensure you give appropriate credit to the typeface and designer.
 
 [By clicking this link, you agree to credit the designer. Download bianzhidai font here!](https://github.com/sdfggvfvj/bianzhidai/archive/refs/heads/main.zip)
 
