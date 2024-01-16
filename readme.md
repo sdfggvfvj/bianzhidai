@@ -4,6 +4,9 @@
 
 BianZhiDai is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
 
+## bianzhidai 2.0 (update)
+There is an update version of bianzhidai, go have a look:
+[bianzhidai 2.0](https://github.com/sdfggvfvj/bianzhidai-2.0)
 
 ## Designer
 
@@ -35,7 +38,4 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 ## GIF
 ![alt text](hello_comic_VF.gif "Variable Preview")
-
-## bianzhidai 2.0 (update)
-[bianzhidai 2.0](https://github.com/sdfggvfvj/bianzhidai-2.0)
 
