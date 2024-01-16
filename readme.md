@@ -36,3 +36,6 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 ## GIF
 ![alt text](hello_comic_VF.gif "Variable Preview")
 
+## bianzhidai 2.0 (update)
+[bianzhidai 2.0](https://github.com/sdfggvfvj/bianzhidai-2.0)
+
