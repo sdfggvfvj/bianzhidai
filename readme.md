@@ -8,23 +8,11 @@ Prior downloads under the SIL OFL 1.1 remain valid under that license.
 ## Update (2024.09.10)
 ![COLR FONT preview](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-## bianzhidai 2.0 (update)
-There is an update version of bianzhidai, go have a look:
-[bianzhidai 2.0](https://github.com/sdfggvfvj/bianzhidai-2.0)
-=======
-=======
->>>>>>> Stashed changes
 Okay, recently I'm very obssesed with color fonts, so here you go:
 ADDED 3 new styles for bianzhidai_COLR
 Now you can use **OTF -> for print and display**
 and WOFF -> **for web display**
 e~n~j~o~y.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 ## About BianZhiDai 2.0 ⚡⚡⚡
 
